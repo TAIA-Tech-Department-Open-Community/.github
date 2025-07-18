@@ -81,6 +81,7 @@ Welcome to the Taiwan Artificial Intelligence Association Tech Department Open C
 - **最佳實踐指南** - 產業級AI開發經驗分享
 - **案例研究** - 真實AI專案的實作記錄
 
+> [!NOTE]
 > 🚧 我們正在建設中！敬請期待我們即將推出的開源專案
 > 
 > 🚧 Under Construction! Stay tuned for our upcoming open-source projects
@@ -104,7 +105,7 @@ Welcome to the Taiwan Artificial Intelligence Association Tech Department Open C
 
 ## 📚 學習資源 Learning Resources
 
-> [!INFO]
+> [!NOTE]  
 > 此部分正在建設中，敬請期待！
 
 ## 📞 聯絡我們 Contact Us
